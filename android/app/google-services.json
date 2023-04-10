@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612351881903",
+    "project_id": "moli-114a4",
+    "storage_bucket": "moli-114a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612351881903:android:7a3b82ea7b310cdf08da5a",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612351881903-ojnnuj0m1jjhnm1h3lln0g883c3bkb9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATvd9WuJKHR6M04wDW-2G190QJ-r3jmYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612351881903-ojnnuj0m1jjhnm1h3lln0g883c3bkb9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
